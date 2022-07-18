@@ -1,187 +1,181 @@
 # Profile
 
-Simple Programs (10)				
+<h2>Simple Programs (10)	</h2>		<br>	
+1
+Find area of a rectangle		<br>			
+2
+Find ASCII value of a character			<br>		
+3
+Convert Celsius to Fahrenheit				<br>	
+4
+Swap value of two variables					<br>
 5
-Find area of a rectangle				
+Check the given number is odd or even				<br>	
 6
-Find ASCII value of a character				
+Check whether a character is vowel or consonant			<br>		
 7
-Convert Celsius to Fahrenheit				
+Find largest among three numbers			<br>		
 8
-Swap value of two variables				
+Leap year checking					<br>
 9
-Check the given number is odd or even				
+Positive negative checking					<br>
 10
-Check whether a character is vowel or consonant				
+Quadratic equation				<br>	
 11
-Find largest among three numbers				
+<h2>	Programs using Loops (19)		</h2>				<br>
 12
-Leap year checking				
+Factorial without using function			<br>		
 13
-Positive negative checking				
+Square of N					<br>
 14
-Quadratic equation				
+Calculate x to the power y				<br>	
 15
+Multiplication table					<br>
 16
-Programs using Loops (19)				
+Sum of natural numbers					<br>
 17
-Factorial without using function				
+Fibonacci starting from any two numbers					<br>
 18
-Square of N				
+Upper case to Lower case				<br>	
 19
-Calculate x to the power y				
+Lower to upper				<br>	
 20
-Multiplication table				
+Pascal triangle					<br>
 21
-Sum of natural numbers				
+LCM & GCD					<br>
 22
-Fibonacci starting from any two numbers				
+Prime numbers between two ranges				<br>	
 23
-Upper case to Lower case				
+Factors of a number					<br>
 24
-Lower to upper				
+Prime Factors					<br>
 25
-Pascal triangle				
+Bin to dec and oct					<br>
 26
-LCM & GCD				
+Count the number of digit in an integer				<br>	
 27
-Prime numbers between two ranges				
+Reverse the digits of given number				<br>	
 28
-Factors of a number				
+Number palindrome					<br>
 29
-Prime Factors				
+Digit summation					<br>
 30
-Bin to dec and oct				
+Amstrong checking					<br>
 31
-Count the number of digit in an integer				
+<h2>	Programs using Arrays (13)	</h2>				<br>	
 32
-Reverse the digits of given number				
+Fibonacci using array					<br>
 33
-Number palindrome				
+Largest among N numbers in an array					<br>
 34
-Digit summation				
+Smallest among N numbers in an array					<br>
 35
-Amstrong checking				
+Reverse the array elements					<br>
 36
+Insert an element in an array					<br>
 37
-Programs using Arrays (13)				
+Deleting an array element					<br>
 38
-Fibonacci using array				
+Transpose of a matrix					<br>
 39
-Largest among N numbers in an array				
+Duplication removal					<br>
 40
-Smallest among N numbers in an array				
+Linear Search					<br>
 41
-Reverse the array elements				
+Binary search					<br>
 42
-Insert an element in an array				
+Split the sorted array					<br>
 43
-Deleting an array element				
+Matrix addition					<br>
 44
-Transpose of a matrix				
+Sort an array					<br>
 45
-Duplication removal				
+<h2>	Programs using Recursion (8)	</h2>		<br>			
 46
-Linear Search				
+Factorial using recursive function			<br>		
 47
-Binary search				
+Fibonacci using recursive function				<br>	
 48
-Split the sorted array				
+Sum of N numbers using recursion				<br>	
 49
-Matrix addition				
+Reverse the sentence using recursion			<br>		
 50
-Sort an array				
+Power using recursion			<br>		
 51
+Towers of Hanoi					<br>
 52
-Programs using Recursion (8)				
+Exponent using recursion					<br>
 53
-Factorial using recursive function				
+GCD using recursion					<br>
 54
-Fibonacci using recursive function				
+<h2>	Programs using Strings (14)	</h2>					<br>
 55
-Sum of N numbers using recursion				
+Program to Count Blanks,Tabs and Newlines			<br>		
 56
-Reverse the sentence using recursion				
+Palindrome checking				<br>	
 57
-Power using recursion				
+convert a name into its ascii values.				<br>	
 58
-Towers of Hanoi				
+calculating string length without strlen function					<br>
 59
-Exponent using recursion				
+comparing 2 strings without strcmp function				<br>	
 60
-GCD using recursion				
+copying one string to another without using strcpy				<br>	
 61
+string concatenation without using strcat function				<br>	
 62
-Programs using Strings (14)				
+Pattern replacement			<br>		
 63
-Program to Count Blanks,Tabs and Newlines				
+Finding vowels					<br>
 64
-Palindrome checking				
+Sorting in alphabetical order					<br>
 65
-convert a name into its ascii values.				
+Searching sub string in a string			<br>		
 66
-calculating string length without strlen function				
+Find the frequency of a character in a string			<br>		
 67
-comparing 2 strings without strcmp function				
+Remove characters in string except alphabets			<br>		
 68
-copying one string to another without using strcpy				
+Reverse the given string					<br>
 69
-string concatenation without using strcat function				
+<h2>Programs using Pointers (8)</h2>			<br>		
 70
-Pattern replacement				
+Area of circle using pointers					<br>
 71
-Finding vowels				
+function pointers					<br>
 72
-Sorting in alphabetical order				
-73
-Searching sub string in a string				
-74
-Find the frequency of a character in a string				
-75
-Remove characters in string except alphabets				
-76
-Reverse the given string				
-77
-78
-Programs using Pointers (8)				
-79
-Area of circle using pointers				
-80
-function pointers				
-81
 duplication removal using pointers				
+73
+Sorting integer array using pointers					<br>
+74
+Sum of array using pointers					<br>
+75
+Count number of words using pointers			<br>		
+76
+Length of a string using pointers				<br>	
+77
+Reverse the String Using Pointers				<br>	
+78
+<h2>Programs using Files (11)		</h2>			<br>
+79
+Write a sentence into a file				<br>	
+80
+Employee file					<br>
+81
+Employee-struct					<br>
 82
-Sorting integer array using pointers				
+Copying the content of one file into another					<br>
 83
-Sum of array using pointers				
+Convert the file contents in Upper-case & Write Contents in a output file					<br>
 84
-Count number of words using pointers				
-85
-Length of a string using pointers				
-86
-Reverse the String Using Pointers				
-87
-88
-Programs using Files (11)				
-89
-Write a sentence into a file				
-90
-Employee file				
-91
-Employee-struct				
-92
-Copying the content of one file into another				
-93
-Convert the file contents in Upper-case & Write Contents in a output file				
-94
 Compare two text/data files in C Programming				
-95
+85
 Reading & writing in files				
-96
+86
 ODD-EVEN splitting				
-97
+87
 Copy from one text file into another				
-98
+88
 Display same source code as output				
-99
+89
 Read a string of text from a file
